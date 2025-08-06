@@ -16,7 +16,6 @@ It was done for a school project in 2023. Forms interface is in english, althoug
 
 Database diagram with english translations in brackets
 
-[Database diagram image](diagram.png)
 
 ## Final note
 
